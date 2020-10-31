@@ -1,0 +1,87 @@
+.creator {
+    position: absolute;
+    background-color: rgb(243, 249, 255);
+    width: 280px;
+    height: 300px;
+    left: 510px;
+    
+    border: 3px solid white;
+    box-sizing: border-box;
+    
+}
+
+.text00 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;   
+    color: rgb(6, 6, 78);
+}
+
+.text01 {
+    font-size: 15px; 
+}
+
+.form00 {
+    display: block;
+    width: 160px;
+    height: 16px;
+    margin: auto;
+    margin-top: -11px;
+}
+
+.text02 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.form01 {
+    display: block;
+    margin: auto;
+    margin-top: -11px;
+}
+
+.text03 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px; 
+}
+
+.form02 {
+    display: block;
+    margin: auto;
+    margin-top: -11px;
+}
+
+.text04 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px; 
+}
+
+.form03 {
+    display: block;
+    margin: auto;
+    margin-top: -11px;
+}
+
+.conta {
+    text-decoration: none;
+    display: block;
+    width: 80px;
+    height: 15px;
+    margin: auto;
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 5px;
+    background-color: rgb(221, 221, 221); 
+    color: black;
+    border: 1.5px solid grey;
+    border-radius: 3px;
+}
+
+.conta:hover {
+    background-color: rgb(235, 32, 140);
+    color: white;
+}
